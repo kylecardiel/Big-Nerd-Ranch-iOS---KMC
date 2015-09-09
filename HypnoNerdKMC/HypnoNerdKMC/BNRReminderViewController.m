@@ -1,6 +1,6 @@
 //
 //  BNRReminderViewController.m
-//  HypnoNerdKMC
+//  HypnoNerdKMC - BNR chapter 6
 //
 //  Created by Kyle on 8/29/15.
 //  Copyright (c) 2015 DePaul University. All rights reserved.
