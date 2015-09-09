@@ -1,6 +1,6 @@
 //
 //  BNRCourses.m
-//  NerdFeedKMC
+//  NerdFeedKMC - Chapter 21/22
 //
 //  Created by Kyle on 9/7/15.
 //  Copyright (c) 2015 DePaul University. All rights reserved.
