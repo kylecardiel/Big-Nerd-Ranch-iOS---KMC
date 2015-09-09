@@ -1,6 +1,6 @@
 //
 //  BNRHypnosisView.m
-//  HypnosisterKMC
+//  HypnosisterKMC - BNR Chapter
 //
 //  Created by Kyle on 8/29/15.
 //  Copyright (c) 2015 DePaul University. All rights reserved.
